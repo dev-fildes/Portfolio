@@ -1,0 +1,23 @@
+{
+  "name": "portfolio",
+  "version": "0.0.1",
+  "description": "Portfolio containing my works.",
+  "main": "index.html",
+  "dependencies": {
+    "vue": "^2.6.11"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dev-fildes/Portfolio.git"
+  },
+  "author": "Sarah Fildes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dev-fildes/Portfolio/issues"
+  },
+  "homepage": "https://github.com/dev-fildes/Portfolio#readme"
+}
